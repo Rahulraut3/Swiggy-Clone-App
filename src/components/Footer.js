@@ -16,7 +16,7 @@ const Footer = () => {
 
         <div className='md:col-start-1 col-end-auto row-start-1 row-end-5'>
           <h2 className='text-2xl font-bold'>Swiggy</h2>
-          <h4 className='text-gray-300 my-4'>© 2023 made By Rahul</h4>
+          <h4 className='text-gray-300 my-4'>© 2024 made By Rahul</h4>
         </div>
 
         <div className='md-col-start-2'>
